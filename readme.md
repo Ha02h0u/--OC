@@ -14,4 +14,4 @@
 
 部分一键完成过程中的动画演示：
 
-![华容道动画演示] (https://github.com/Ha02h0u/HuaRongDao/blob/master/%E5%8D%8E%E5%AE%B9%E9%81%93%E8%BF%90%E8%A1%8C%E6%BC%94%E7%A4%BA.gif?raw=true)
+![demo] (https://github.com/Ha02h0u/HuaRongDao/blob/master/%E5%8D%8E%E5%AE%B9%E9%81%93%E8%BF%90%E8%A1%8C%E6%BC%94%E7%A4%BA.gif?raw=true)
